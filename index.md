@@ -15,4 +15,8 @@ What we hope to accomplish is to build a website that can help users find places
 
 ![](https://media.discordapp.net/attachments/1393102462717792337/1394583704088875111/VendorHome.png?ex=687756c9&is=68760549&hm=6c1441d01decb4b2307a40d0a15f38c15344cb04c0cad05c503aa3bdd73b0c59&=&format=webp&quality=lossless&width=1845&height=1038)
 
+![](https://media.discordapp.net/attachments/1393102462717792337/1394589168402956318/footer.png?ex=68775bdf&is=68760a5f&hm=e913c8b050e57d8c4a2196c0dd5087ce5ce9839d34a4401cf42103dbd1952418&=&format=webp&quality=lossless&width=1845&height=1038)
+
+![](https://media.discordapp.net/attachments/1393102462717792337/1394590486903128125/Vendor_Info.png?ex=68775d1a&is=68760b9a&hm=1f98ffb38ce014ded729f87661550bacf1e496bc13efa4b0540d06babe5c0357&=&format=webp&quality=lossless&width=825&height=464)
+
 ---
