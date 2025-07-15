@@ -1,8 +1,8 @@
 Project: Manoa Food Finder
 
-#Overview
+# Project Goals
 ---
-#Problem
+# Project Expectations
 ---
-#Approach
+# Mockup Pages
 ---
