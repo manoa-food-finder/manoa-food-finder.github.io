@@ -10,4 +10,9 @@ What we hope to accomplish is to build a website that can help users find places
 
 ## Mockup Pages
 ![](https://media.discordapp.net/attachments/1393102462717792337/1394553111846326292/image.png?ex=68773a4b&is=6875e8cb&hm=1dc2e32b821844c42d978aec29bd372bd0196f4d8485eaf838486e4042db7776&=&format=webp&quality=lossless&width=926&height=500)
+
+![](https://media.discordapp.net/attachments/1393102462717792337/1394583597591298139/Locations.png?ex=687756af&is=6876052f&hm=7b541816dc8926ed50ef982fc627c9dc7397a95c953d995194b4a47bf4ab14da&=&format=webp&quality=lossless&width=1845&height=1038)
+
+![](https://media.discordapp.net/attachments/1393102462717792337/1394583704088875111/VendorHome.png?ex=687756c9&is=68760549&hm=6c1441d01decb4b2307a40d0a15f38c15344cb04c0cad05c503aa3bdd73b0c59&=&format=webp&quality=lossless&width=1845&height=1038)
+
 ---
