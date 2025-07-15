@@ -1,6 +1,8 @@
+Project: Manoa Food Finder
 
+#Overview
 ---
-
+#Problem
 ---
-
-# Hello World for test
+#Approach
+---
