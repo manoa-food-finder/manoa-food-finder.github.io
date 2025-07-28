@@ -18,12 +18,13 @@ What we hope to accomplish is to build a website that can help users find places
 
 
 ## Mockup Pages
+### Landing Page
 <img src="./images/M1Landing.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Home">
-
+### Map Page
 <img src="./images/M1Map.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Locations">
-
+### User Homepage
 <img src="./images/M1UserHome.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Footer">
-
+### Vendor Posting Page
 <img src="./images/M1VendorPosts.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Vendor Info">
 
 ---
