@@ -10,19 +10,19 @@ What we hope to accomplish is to build a website that can help users find places
 
 ## Mockup Pages
 <img 
-  src="../img/Home.png" 
+  src="../images/Home.png" 
   class="img-fluid rounded mx-auto d-block" 
   style="width: 600px;" 
   alt="Home">
 
 <img 
-  src="../img/Locations.png" 
+  src="../images/Locations.png" 
   class="img-fluid rounded mx-auto d-block" 
   style="width: 600px;" 
   alt="Locations">
   
 <img 
-  src="../img/footer.png" 
+  src="../images/footer.png" 
   class="img-fluid rounded mx-auto d-block" 
   style="width: 600px;" 
   alt="Footer">
