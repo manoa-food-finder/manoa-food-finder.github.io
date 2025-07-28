@@ -2,9 +2,7 @@
 
 ## Links
 1. [GitHub Organization](https://github.com/manoa-food-finder)
-
 2. [Team Contract](https://docs.google.com/document/d/1hsP_xAFDBYJTlt6jaIVDKSahPQgqh5Is3safV5Tg37o/edit?tab=t.0)
-
 3. [M1 Project Page](https://github.com/orgs/manoa-food-finder/projects/2)
 4. [M2 Project Page](https://github.com/orgs/manoa-food-finder/projects/3)
 
