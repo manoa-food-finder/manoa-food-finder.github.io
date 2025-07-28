@@ -10,6 +10,7 @@ https://docs.google.com/document/d/1hsP_xAFDBYJTlt6jaIVDKSahPQgqh5Is3safV5Tg37o/
 3. M1 Project Page
 https://github.com/orgs/manoa-food-finder/projects/2
 4. M2 Project Page
+https://github.com/orgs/manoa-food-finder/projects/3
 
 ## Deployment
 
@@ -22,12 +23,12 @@ What we hope to accomplish is to build a website that can help users find places
 
 
 ## Mockup Pages
-<img src="./images/Home.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Home">
+<img src="./images/M1Landing.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Home">
 
-<img src="./images/Locations.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Locations">
+<img src="./images/M1Map.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Locations">
 
-<img src="./images/footer.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Footer">
+<img src="./images/M1UserHome.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Footer">
 
-<img src="./images/Vendor_Info.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Vendor Info">
+<img src="./images/M1VendorPosts.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Vendor Info">
 
 ---
