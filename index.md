@@ -1,5 +1,18 @@
 # Project: Manoa Food Finder
 
+## Links
+1. GitHub Organization
+  https://github.com/manoa-food-finder
+
+2. Team Contract
+https://docs.google.com/document/d/1hsP_xAFDBYJTlt6jaIVDKSahPQgqh5Is3safV5Tg37o/edit?tab=t.0
+
+3. M1 Project Page
+https://github.com/orgs/manoa-food-finder/projects/2
+4. M2 Project Page
+
+## Deployment
+
 ## Project Goals
 The main objective of the UH Food Finder project is to develop an application that helps students locate food options on the University of Hawaii campus. Our app will allow users to see real-time availability of different menu items, vendor hours and current menus across campus. We aim to solve the problem of not knowing what food is available or where to find it during short breaks on campus. 
 
