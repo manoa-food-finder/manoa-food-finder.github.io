@@ -15,4 +15,6 @@ What we hope to accomplish is to build a website that can help users find places
 
 <img src="./images/footer.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Footer">
 
+<img src="./images/Vendor_Info.png" class="img-fluid rounded mx-auto d-block" style="width: 600px;" alt="Vendor Info">
+
 ---
