@@ -46,8 +46,7 @@ Prerequsites: Prisma, Next.js version 18 or newer, npm version 9 or newer, git, 
 1. Clone the repository.
 git clone https://github.com/manoa-food-finder/manoa-food-finder-app
 npm install
-2. (Insert .env info here)
+2. Add a .env file, and create a PostgreSQL database to match to. These changes should be done next to "DATABASE_URL".
 3. Run npx prisma migrate dev -name init. You can also seed the database with px prisma db seed.
 4. Run npm run dev, and use control + click to access localhost:3000.
-5. (Insert Vercel info Here)
 ---
