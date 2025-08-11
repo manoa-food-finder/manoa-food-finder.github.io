@@ -49,4 +49,5 @@ npm install
 2. Add a .env file, and create a PostgreSQL database to match to. These changes should be done next to "DATABASE_URL".
 3. Run npx prisma migrate dev -name init. You can also seed the database with px prisma db seed.
 4. Run npm run dev, and use control + click to access localhost:3000.
+   
 ---
