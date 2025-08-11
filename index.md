@@ -42,7 +42,6 @@ Vendor Posting Page
 ## Developer Guide
 This section will be useful for developers who want to use this code as a basis for their own development tasks.
 #Installation.
-`
 Prerequsites: Prisma, Next.js version 18 or newer, npm version 9 or newer, git, PostgreSQL, Vercel.
 1. Clone the repository.
 git clone https://github.com/manoa-food-finder/manoa-food-finder-app
@@ -50,6 +49,5 @@ npm install
 2. (Insert .env info here)
 3. Run npx prisma migrate dev -name init. You can also seed the database with px prisma db seed.
 4. Run npm run dev, and use control + click to access localhost:3000.
-5. (Insert Vercel Here)
-`
+5. (Insert Vercel info Here)
 ---
